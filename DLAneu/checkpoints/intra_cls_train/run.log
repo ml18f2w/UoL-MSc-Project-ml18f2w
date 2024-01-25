@@ -1,0 +1,827 @@
+The number of trainable parameters: 1.540239(M)
+[Train 0, loss: 0.655999, train acc: 0.783125, balanced train acc: 0.515812]
+[Test 0, test acc: 0.836634, best V_acc: 1.000000, best A_acc: 0.000000, best F1: 0.000000]
+[Train 1, loss: 0.651162, train acc: 0.795625, balanced train acc: 0.518398]
+[Test 1, test acc: 0.836634, best V_acc: 1.000000, best A_acc: 0.000000, best F1: 0.000000]
+[Train 2, loss: 0.648944, train acc: 0.786250, balanced train acc: 0.498246]
+[Test 2, test acc: 0.836634, best V_acc: 1.000000, best A_acc: 0.000000, best F1: 0.000000]
+[Train 3, loss: 0.664969, train acc: 0.778125, balanced train acc: 0.497101]
+[Test 3, test acc: 0.700495, best V_acc: 1.000000, best A_acc: 0.253205, best F1: 0.229299]
+[Train 4, loss: 0.646300, train acc: 0.800625, balanced train acc: 0.529345]
+[Test 4, test acc: 0.839109, best V_acc: 1.000000, best A_acc: 0.253205, best F1: 0.229299]
+[Train 5, loss: 0.633375, train acc: 0.809375, balanced train acc: 0.546804]
+[Test 5, test acc: 0.831683, best V_acc: 1.000000, best A_acc: 0.253205, best F1: 0.229299]
+[Train 6, loss: 0.628745, train acc: 0.814375, balanced train acc: 0.574468]
+[Test 6, test acc: 0.849010, best V_acc: 1.000000, best A_acc: 0.253205, best F1: 0.229299]
+[Train 7, loss: 0.612925, train acc: 0.830625, balanced train acc: 0.632926]
+[Test 7, test acc: 0.836634, best V_acc: 1.000000, best A_acc: 0.253205, best F1: 0.229299]
+[Train 8, loss: 0.598413, train acc: 0.863125, balanced train acc: 0.702934]
+[Test 8, test acc: 0.836634, best V_acc: 1.000000, best A_acc: 0.253205, best F1: 0.229299]
+[Train 9, loss: 0.586871, train acc: 0.878125, balanced train acc: 0.735940]
+[Test 9, test acc: 0.861386, best V_acc: 1.000000, best A_acc: 0.253205, best F1: 0.317073]
+[Train 10, loss: 0.578428, train acc: 0.890000, balanced train acc: 0.759185]
+[Test 10, test acc: 0.868812, best V_acc: 1.000000, best A_acc: 0.253205, best F1: 0.329114]
+[Train 11, loss: 0.571389, train acc: 0.904375, balanced train acc: 0.791723]
+[Test 11, test acc: 0.866337, best V_acc: 1.000000, best A_acc: 0.253205, best F1: 0.341463]
+[Train 12, loss: 0.564327, train acc: 0.917500, balanced train acc: 0.804876]
+[Test 12, test acc: 0.903465, best V_acc: 1.000000, best A_acc: 0.694872, best F1: 0.711111]
+[Train 13, loss: 0.571542, train acc: 0.896250, balanced train acc: 0.789785]
+[Test 13, test acc: 0.905941, best V_acc: 1.000000, best A_acc: 0.694872, best F1: 0.711111]
+[Train 14, loss: 0.562902, train acc: 0.916875, balanced train acc: 0.811933]
+[Test 14, test acc: 0.920792, best V_acc: 1.000000, best A_acc: 0.694872, best F1: 0.724138]
+[Train 15, loss: 0.558751, train acc: 0.923125, balanced train acc: 0.829144]
+[Test 15, test acc: 0.883663, best V_acc: 1.000000, best A_acc: 0.694872, best F1: 0.724138]
+[Train 16, loss: 0.556191, train acc: 0.933750, balanced train acc: 0.852494]
+[Test 16, test acc: 0.888614, best V_acc: 1.000000, best A_acc: 0.694872, best F1: 0.724138]
+[Train 17, loss: 0.552265, train acc: 0.935625, balanced train acc: 0.851003]
+[Test 17, test acc: 0.918317, best V_acc: 1.000000, best A_acc: 0.721739, best F1: 0.731707]
+[Train 18, loss: 0.547064, train acc: 0.941875, balanced train acc: 0.867652]
+[Test 18, test acc: 0.928218, best V_acc: 1.000000, best A_acc: 0.818750, best F1: 0.788321]
+[Train 19, loss: 0.549611, train acc: 0.936250, balanced train acc: 0.849850]
+[Test 19, test acc: 0.856436, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.788321]
+[Train 20, loss: 0.543248, train acc: 0.950000, balanced train acc: 0.881803]
+[Test 20, test acc: 0.915842, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.788321]
+[Train 21, loss: 0.544359, train acc: 0.945625, balanced train acc: 0.874541]
+[Test 21, test acc: 0.905941, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.788321]
+[Train 22, loss: 0.543181, train acc: 0.946250, balanced train acc: 0.881919]
+[Test 22, test acc: 0.918317, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.788321]
+[Train 23, loss: 0.540970, train acc: 0.952500, balanced train acc: 0.882587]
+[Test 23, test acc: 0.923267, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.788321]
+[Train 24, loss: 0.544981, train acc: 0.946875, balanced train acc: 0.868618]
+[Test 24, test acc: 0.930693, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.788321]
+[Train 25, loss: 0.541184, train acc: 0.956250, balanced train acc: 0.902915]
+[Test 25, test acc: 0.920792, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.788321]
+[Train 26, loss: 0.542068, train acc: 0.946875, balanced train acc: 0.878109]
+[Test 26, test acc: 0.908416, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.788321]
+[Train 27, loss: 0.541860, train acc: 0.955000, balanced train acc: 0.890220]
+[Test 27, test acc: 0.886139, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.788321]
+[Train 28, loss: 0.538762, train acc: 0.955000, balanced train acc: 0.895188]
+[Test 28, test acc: 0.935644, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.821918]
+[Train 29, loss: 0.540887, train acc: 0.951250, balanced train acc: 0.887978]
+[Test 29, test acc: 0.918317, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.821918]
+[Train 30, loss: 0.541862, train acc: 0.955000, balanced train acc: 0.889830]
+[Test 30, test acc: 0.908416, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.821918]
+[Train 31, loss: 0.544549, train acc: 0.958125, balanced train acc: 0.903167]
+[Test 31, test acc: 0.908416, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.821918]
+[Train 32, loss: 0.534210, train acc: 0.970000, balanced train acc: 0.930458]
+[Test 32, test acc: 0.928218, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.821918]
+[Train 33, loss: 0.532944, train acc: 0.964375, balanced train acc: 0.912397]
+[Test 33, test acc: 0.930693, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.821918]
+[Train 34, loss: 0.541562, train acc: 0.959375, balanced train acc: 0.900156]
+[Test 34, test acc: 0.903465, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.821918]
+[Train 35, loss: 0.530920, train acc: 0.972500, balanced train acc: 0.934676]
+[Test 35, test acc: 0.940594, best V_acc: 1.000000, best A_acc: 0.919872, best F1: 0.821918]
+[Train 36, loss: 0.534977, train acc: 0.961875, balanced train acc: 0.906829]
+[Test 36, test acc: 0.913366, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.821918]
+[Train 37, loss: 0.536747, train acc: 0.961875, balanced train acc: 0.915530]
+[Test 37, test acc: 0.943069, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.821918]
+[Train 38, loss: 0.532100, train acc: 0.966875, balanced train acc: 0.923410]
+[Test 38, test acc: 0.935644, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 39, loss: 0.534031, train acc: 0.970625, balanced train acc: 0.928469]
+[Test 39, test acc: 0.940594, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 40, loss: 0.533829, train acc: 0.965625, balanced train acc: 0.920148]
+[Test 40, test acc: 0.935644, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 41, loss: 0.530739, train acc: 0.973125, balanced train acc: 0.939631]
+[Test 41, test acc: 0.908416, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 42, loss: 0.529072, train acc: 0.976875, balanced train acc: 0.941457]
+[Test 42, test acc: 0.913366, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 43, loss: 0.529942, train acc: 0.968125, balanced train acc: 0.922072]
+[Test 43, test acc: 0.923267, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 44, loss: 0.532293, train acc: 0.971875, balanced train acc: 0.927934]
+[Test 44, test acc: 0.935644, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 45, loss: 0.529366, train acc: 0.976250, balanced train acc: 0.941501]
+[Test 45, test acc: 0.943069, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 46, loss: 0.529438, train acc: 0.978125, balanced train acc: 0.943542]
+[Test 46, test acc: 0.935644, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 47, loss: 0.525332, train acc: 0.981250, balanced train acc: 0.953820]
+[Test 47, test acc: 0.943069, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 48, loss: 0.525634, train acc: 0.975625, balanced train acc: 0.931711]
+[Test 48, test acc: 0.940594, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 49, loss: 0.522583, train acc: 0.980000, balanced train acc: 0.952411]
+[Test 49, test acc: 0.908416, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 50, loss: 0.523357, train acc: 0.978750, balanced train acc: 0.947579]
+[Test 50, test acc: 0.905941, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 51, loss: 0.527827, train acc: 0.976250, balanced train acc: 0.937999]
+[Test 51, test acc: 0.935644, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 52, loss: 0.523763, train acc: 0.977500, balanced train acc: 0.943575]
+[Test 52, test acc: 0.886139, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 53, loss: 0.522772, train acc: 0.982500, balanced train acc: 0.954072]
+[Test 53, test acc: 0.943069, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 54, loss: 0.522188, train acc: 0.985625, balanced train acc: 0.965192]
+[Test 54, test acc: 0.925743, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 55, loss: 0.522144, train acc: 0.983125, balanced train acc: 0.959072]
+[Test 55, test acc: 0.928218, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 56, loss: 0.523157, train acc: 0.981250, balanced train acc: 0.955949]
+[Test 56, test acc: 0.925743, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.824324]
+[Train 57, loss: 0.520211, train acc: 0.983125, balanced train acc: 0.953936]
+[Test 57, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.827586]
+[Train 58, loss: 0.525300, train acc: 0.978750, balanced train acc: 0.946051]
+[Test 58, test acc: 0.938119, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.827586]
+[Train 59, loss: 0.518812, train acc: 0.985625, balanced train acc: 0.963253]
+[Test 59, test acc: 0.928218, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.827586]
+[Train 60, loss: 0.522151, train acc: 0.981875, balanced train acc: 0.953530]
+[Test 60, test acc: 0.925743, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.827586]
+[Train 61, loss: 0.521213, train acc: 0.986250, balanced train acc: 0.962892]
+[Test 61, test acc: 0.940594, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.827586]
+[Train 62, loss: 0.520159, train acc: 0.985000, balanced train acc: 0.964446]
+[Test 62, test acc: 0.940594, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.827586]
+[Train 63, loss: 0.522511, train acc: 0.983125, balanced train acc: 0.957377]
+[Test 63, test acc: 0.938119, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.827586]
+[Train 64, loss: 0.519787, train acc: 0.985000, balanced train acc: 0.958954]
+[Test 64, test acc: 0.938119, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.827586]
+[Train 65, loss: 0.520689, train acc: 0.981875, balanced train acc: 0.953865]
+[Test 65, test acc: 0.943069, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.827586]
+[Train 66, loss: 0.518362, train acc: 0.988750, balanced train acc: 0.971788]
+[Test 66, test acc: 0.933168, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.827586]
+[Train 67, loss: 0.522530, train acc: 0.984375, balanced train acc: 0.963033]
+[Test 67, test acc: 0.915842, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.827586]
+[Train 68, loss: 0.519477, train acc: 0.986250, balanced train acc: 0.962619]
+[Test 68, test acc: 0.938119, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.827586]
+[Train 69, loss: 0.520608, train acc: 0.981875, balanced train acc: 0.950976]
+[Test 69, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.839695]
+[Train 70, loss: 0.516393, train acc: 0.988125, balanced train acc: 0.966309]
+[Test 70, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.866142]
+[Train 71, loss: 0.518817, train acc: 0.988750, balanced train acc: 0.973039]
+[Test 71, test acc: 0.928218, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.866142]
+[Train 72, loss: 0.516032, train acc: 0.988125, balanced train acc: 0.969879]
+[Test 72, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.866142]
+[Train 73, loss: 0.514683, train acc: 0.991250, balanced train acc: 0.976352]
+[Test 73, test acc: 0.945545, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.866142]
+[Train 74, loss: 0.518515, train acc: 0.989375, balanced train acc: 0.975144]
+[Test 74, test acc: 0.918317, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.866142]
+[Train 75, loss: 0.516850, train acc: 0.990625, balanced train acc: 0.977513]
+[Test 75, test acc: 0.943069, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.866142]
+[Train 76, loss: 0.518733, train acc: 0.990625, balanced train acc: 0.980646]
+[Test 76, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.866142]
+[Train 77, loss: 0.515748, train acc: 0.991875, balanced train acc: 0.978340]
+[Test 77, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.866142]
+[Train 78, loss: 0.515742, train acc: 0.993125, balanced train acc: 0.982012]
+[Test 78, test acc: 0.925743, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.866142]
+[Train 79, loss: 0.513967, train acc: 0.993750, balanced train acc: 0.984043]
+[Test 79, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.866142]
+[Train 80, loss: 0.516728, train acc: 0.990000, balanced train acc: 0.978530]
+[Test 80, test acc: 0.965347, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 81, loss: 0.519698, train acc: 0.989375, balanced train acc: 0.972362]
+[Test 81, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 82, loss: 0.516829, train acc: 0.991250, balanced train acc: 0.977887]
+[Test 82, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 83, loss: 0.517816, train acc: 0.995625, balanced train acc: 0.986692]
+[Test 83, test acc: 0.940594, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 84, loss: 0.516661, train acc: 0.989375, balanced train acc: 0.970627]
+[Test 84, test acc: 0.962871, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 85, loss: 0.514436, train acc: 0.993125, balanced train acc: 0.980542]
+[Test 85, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 86, loss: 0.513256, train acc: 0.995000, balanced train acc: 0.987759]
+[Test 86, test acc: 0.933168, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 87, loss: 0.515386, train acc: 0.991875, balanced train acc: 0.976550]
+[Test 87, test acc: 0.945545, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 88, loss: 0.514525, train acc: 0.995000, balanced train acc: 0.984674]
+[Test 88, test acc: 0.918317, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 89, loss: 0.515862, train acc: 0.993125, balanced train acc: 0.980615]
+[Test 89, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 90, loss: 0.518454, train acc: 0.988750, balanced train acc: 0.971988]
+[Test 90, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 91, loss: 0.511405, train acc: 0.998125, balanced train acc: 0.995810]
+[Test 91, test acc: 0.940594, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 92, loss: 0.514863, train acc: 0.993750, balanced train acc: 0.980769]
+[Test 92, test acc: 0.943069, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 93, loss: 0.513231, train acc: 0.993125, balanced train acc: 0.986723]
+[Test 93, test acc: 0.908416, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 94, loss: 0.512056, train acc: 0.995000, balanced train acc: 0.984674]
+[Test 94, test acc: 0.945545, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 95, loss: 0.511812, train acc: 0.995000, balanced train acc: 0.986368]
+[Test 95, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 96, loss: 0.514505, train acc: 0.995000, balanced train acc: 0.990787]
+[Test 96, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 97, loss: 0.515477, train acc: 0.992500, balanced train acc: 0.978634]
+[Test 97, test acc: 0.945545, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 98, loss: 0.513200, train acc: 0.995625, balanced train acc: 0.989675]
+[Test 98, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 99, loss: 0.514375, train acc: 0.992500, balanced train acc: 0.984723]
+[Test 99, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 100, loss: 0.512396, train acc: 0.995625, balanced train acc: 0.988088]
+[Test 100, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 101, loss: 0.515355, train acc: 0.993125, balanced train acc: 0.983669]
+[Test 101, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 102, loss: 0.512893, train acc: 0.994375, balanced train acc: 0.985843]
+[Test 102, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 103, loss: 0.514449, train acc: 0.995000, balanced train acc: 0.987845]
+[Test 103, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 104, loss: 0.514776, train acc: 0.992500, balanced train acc: 0.981507]
+[Test 104, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 105, loss: 0.512463, train acc: 0.995625, balanced train acc: 0.989746]
+[Test 105, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 106, loss: 0.514027, train acc: 0.993125, balanced train acc: 0.983726]
+[Test 106, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 107, loss: 0.514640, train acc: 0.994375, balanced train acc: 0.988963]
+[Test 107, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 108, loss: 0.514123, train acc: 0.993750, balanced train acc: 0.985570]
+[Test 108, test acc: 0.925743, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 109, loss: 0.514062, train acc: 0.990625, balanced train acc: 0.972909]
+[Test 109, test acc: 0.938119, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 110, loss: 0.512442, train acc: 0.996875, balanced train acc: 0.990272]
+[Test 110, test acc: 0.943069, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 111, loss: 0.510061, train acc: 0.996875, balanced train acc: 0.991993]
+[Test 111, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 112, loss: 0.511963, train acc: 0.995000, balanced train acc: 0.984733]
+[Test 112, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 113, loss: 0.512904, train acc: 0.997500, balanced train acc: 0.995422]
+[Test 113, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 114, loss: 0.511331, train acc: 0.993750, balanced train acc: 0.980916]
+[Test 114, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 115, loss: 0.512350, train acc: 0.994375, balanced train acc: 0.985843]
+[Test 115, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 116, loss: 0.513264, train acc: 0.995000, balanced train acc: 0.986217]
+[Test 116, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 117, loss: 0.513017, train acc: 0.993125, balanced train acc: 0.980615]
+[Test 117, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 118, loss: 0.510152, train acc: 0.995625, balanced train acc: 0.987955]
+[Test 118, test acc: 0.945545, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 119, loss: 0.511250, train acc: 0.999375, balanced train acc: 0.998077]
+[Test 119, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 120, loss: 0.509773, train acc: 0.998125, balanced train acc: 0.994275]
+[Test 120, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 121, loss: 0.511429, train acc: 0.995000, balanced train acc: 0.987845]
+[Test 121, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 122, loss: 0.511468, train acc: 0.997500, balanced train acc: 0.992366]
+[Test 122, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 123, loss: 0.511340, train acc: 0.991875, balanced train acc: 0.976461]
+[Test 123, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 124, loss: 0.511190, train acc: 0.995625, balanced train acc: 0.989746]
+[Test 124, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 125, loss: 0.511978, train acc: 0.996875, balanced train acc: 0.992021]
+[Test 125, test acc: 0.935644, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 126, loss: 0.511411, train acc: 0.997500, balanced train acc: 0.992366]
+[Test 126, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 127, loss: 0.509917, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 127, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 128, loss: 0.510250, train acc: 0.995000, balanced train acc: 0.990844]
+[Test 128, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 129, loss: 0.510680, train acc: 0.998125, balanced train acc: 0.995810]
+[Test 129, test acc: 0.930693, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 130, loss: 0.510167, train acc: 0.996875, balanced train acc: 0.990566]
+[Test 130, test acc: 0.935644, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 131, loss: 0.512589, train acc: 0.993750, balanced train acc: 0.983810]
+[Test 131, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 132, loss: 0.510255, train acc: 0.998750, balanced train acc: 0.996183]
+[Test 132, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 133, loss: 0.509943, train acc: 0.998125, balanced train acc: 0.994318]
+[Test 133, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 134, loss: 0.509513, train acc: 0.998750, balanced train acc: 0.996183]
+[Test 134, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 135, loss: 0.508642, train acc: 0.997500, balanced train acc: 0.993944]
+[Test 135, test acc: 0.945545, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 136, loss: 0.512326, train acc: 0.995000, balanced train acc: 0.986318]
+[Test 136, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 137, loss: 0.510467, train acc: 0.995625, balanced train acc: 0.988044]
+[Test 137, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 138, loss: 0.507864, train acc: 0.998125, balanced train acc: 0.995781]
+[Test 138, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 139, loss: 0.508194, train acc: 0.998125, balanced train acc: 0.994253]
+[Test 139, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 140, loss: 0.509588, train acc: 0.998125, balanced train acc: 0.997317]
+[Test 140, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 141, loss: 0.508540, train acc: 0.997500, balanced train acc: 0.993858]
+[Test 141, test acc: 0.965347, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 142, loss: 0.508548, train acc: 0.998125, balanced train acc: 0.994297]
+[Test 142, test acc: 0.945545, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 143, loss: 0.508500, train acc: 0.999375, balanced train acc: 0.998077]
+[Test 143, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 144, loss: 0.508056, train acc: 0.998125, balanced train acc: 0.995737]
+[Test 144, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 145, loss: 0.509465, train acc: 0.998750, balanced train acc: 0.996183]
+[Test 145, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 146, loss: 0.510136, train acc: 0.997500, balanced train acc: 0.993769]
+[Test 146, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 147, loss: 0.507724, train acc: 0.999375, balanced train acc: 0.998099]
+[Test 147, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 148, loss: 0.508779, train acc: 0.998750, balanced train acc: 0.996183]
+[Test 148, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 149, loss: 0.512179, train acc: 0.995000, balanced train acc: 0.989372]
+[Test 149, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 150, loss: 0.508851, train acc: 0.998750, balanced train acc: 0.999254]
+[Test 150, test acc: 0.962871, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 151, loss: 0.508288, train acc: 0.998750, balanced train acc: 0.996198]
+[Test 151, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 152, loss: 0.508682, train acc: 0.998125, balanced train acc: 0.994186]
+[Test 152, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 153, loss: 0.510760, train acc: 0.998750, balanced train acc: 0.996169]
+[Test 153, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 154, loss: 0.509678, train acc: 0.998125, balanced train acc: 0.995766]
+[Test 154, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 155, loss: 0.509987, train acc: 0.998125, balanced train acc: 0.994253]
+[Test 155, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 156, loss: 0.508795, train acc: 0.998125, balanced train acc: 0.994318]
+[Test 156, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 157, loss: 0.508009, train acc: 0.998750, balanced train acc: 0.996169]
+[Test 157, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 158, loss: 0.509014, train acc: 0.996875, balanced train acc: 0.993506]
+[Test 158, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 159, loss: 0.508869, train acc: 0.999375, balanced train acc: 0.998113]
+[Test 159, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 160, loss: 0.508060, train acc: 0.999375, balanced train acc: 0.998077]
+[Test 160, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 161, loss: 0.509374, train acc: 0.996875, balanced train acc: 0.993549]
+[Test 161, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 162, loss: 0.509767, train acc: 0.996875, balanced train acc: 0.990494]
+[Test 162, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 163, loss: 0.510240, train acc: 0.997500, balanced train acc: 0.993901]
+[Test 163, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 164, loss: 0.508375, train acc: 0.998750, balanced train acc: 0.996183]
+[Test 164, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 165, loss: 0.509488, train acc: 0.996875, balanced train acc: 0.991964]
+[Test 165, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 166, loss: 0.508815, train acc: 0.998125, balanced train acc: 0.994231]
+[Test 166, test acc: 0.962871, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 167, loss: 0.508475, train acc: 0.998125, balanced train acc: 0.995810]
+[Test 167, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 168, loss: 0.505992, train acc: 0.999375, balanced train acc: 0.998092]
+[Test 168, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 169, loss: 0.507097, train acc: 0.998125, balanced train acc: 0.995824]
+[Test 169, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 170, loss: 0.511278, train acc: 0.995000, balanced train acc: 0.987671]
+[Test 170, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 171, loss: 0.509748, train acc: 0.997500, balanced train acc: 0.995422]
+[Test 171, test acc: 0.962871, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 172, loss: 0.509784, train acc: 0.996250, balanced train acc: 0.991676]
+[Test 172, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 173, loss: 0.509493, train acc: 0.997500, balanced train acc: 0.993901]
+[Test 173, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.895522]
+[Train 174, loss: 0.507758, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 174, test acc: 0.967822, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.897638]
+[Train 175, loss: 0.509141, train acc: 0.998125, balanced train acc: 0.997337]
+[Test 175, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.897638]
+[Train 176, loss: 0.510329, train acc: 0.999375, balanced train acc: 0.999626]
+[Test 176, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.897638]
+[Train 177, loss: 0.508720, train acc: 0.998125, balanced train acc: 0.995795]
+[Test 177, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.897638]
+[Train 178, loss: 0.507880, train acc: 0.998750, balanced train acc: 0.996154]
+[Test 178, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.897638]
+[Train 179, loss: 0.507941, train acc: 0.998125, balanced train acc: 0.994253]
+[Test 179, test acc: 0.970297, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 180, loss: 0.507763, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 180, test acc: 0.962871, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 181, loss: 0.507954, train acc: 0.999375, balanced train acc: 0.999626]
+[Test 181, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 182, loss: 0.507361, train acc: 0.999375, balanced train acc: 0.998084]
+[Test 182, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 183, loss: 0.507564, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 183, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 184, loss: 0.508711, train acc: 0.998750, balanced train acc: 0.997711]
+[Test 184, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 185, loss: 0.507687, train acc: 0.999375, balanced train acc: 0.998092]
+[Test 185, test acc: 0.962871, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 186, loss: 0.507552, train acc: 0.998750, balanced train acc: 0.997711]
+[Test 186, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 187, loss: 0.507612, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 187, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 188, loss: 0.507912, train acc: 0.998750, balanced train acc: 0.996139]
+[Test 188, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 189, loss: 0.506930, train acc: 0.998125, balanced train acc: 0.995810]
+[Test 189, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 190, loss: 0.508985, train acc: 0.998750, balanced train acc: 0.996154]
+[Test 190, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 191, loss: 0.507075, train acc: 0.999375, balanced train acc: 0.998092]
+[Test 191, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 192, loss: 0.508780, train acc: 0.999375, balanced train acc: 0.998069]
+[Test 192, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 193, loss: 0.506904, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 193, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 194, loss: 0.507656, train acc: 0.997500, balanced train acc: 0.993813]
+[Test 194, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 195, loss: 0.507546, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 195, test acc: 0.965347, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 196, loss: 0.508815, train acc: 0.998125, balanced train acc: 0.997324]
+[Test 196, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 197, loss: 0.509104, train acc: 0.999375, balanced train acc: 0.998092]
+[Test 197, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 198, loss: 0.509022, train acc: 0.998125, balanced train acc: 0.995824]
+[Test 198, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 199, loss: 0.508437, train acc: 0.999375, balanced train acc: 0.998069]
+[Test 199, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 200, loss: 0.508319, train acc: 0.997500, balanced train acc: 0.992337]
+[Test 200, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 201, loss: 0.509108, train acc: 0.998750, balanced train acc: 0.997711]
+[Test 201, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 202, loss: 0.505990, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 202, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 203, loss: 0.508748, train acc: 0.998750, balanced train acc: 0.996198]
+[Test 203, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 204, loss: 0.507084, train acc: 0.999375, balanced train acc: 0.998092]
+[Test 204, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 205, loss: 0.507720, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 205, test acc: 0.945545, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 206, loss: 0.506953, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 206, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 207, loss: 0.506741, train acc: 0.999375, balanced train acc: 0.998077]
+[Test 207, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 208, loss: 0.508984, train acc: 0.996875, balanced train acc: 0.990421]
+[Test 208, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 209, loss: 0.506648, train acc: 0.999375, balanced train acc: 0.998106]
+[Test 209, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 210, loss: 0.507265, train acc: 0.999375, balanced train acc: 0.999625]
+[Test 210, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 211, loss: 0.508065, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 211, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 212, loss: 0.505464, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 212, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 213, loss: 0.507974, train acc: 0.998750, balanced train acc: 0.996169]
+[Test 213, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 214, loss: 0.508530, train acc: 0.998125, balanced train acc: 0.997337]
+[Test 214, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 215, loss: 0.508428, train acc: 0.999375, balanced train acc: 0.998092]
+[Test 215, test acc: 0.962871, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 216, loss: 0.507991, train acc: 0.997500, balanced train acc: 0.993879]
+[Test 216, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 217, loss: 0.507395, train acc: 0.998125, balanced train acc: 0.995810]
+[Test 217, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 218, loss: 0.507007, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 218, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 219, loss: 0.507745, train acc: 0.999375, balanced train acc: 0.998084]
+[Test 219, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 220, loss: 0.507508, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 220, test acc: 0.962871, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 221, loss: 0.507339, train acc: 0.998750, balanced train acc: 0.996183]
+[Test 221, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 222, loss: 0.507653, train acc: 0.997500, balanced train acc: 0.993923]
+[Test 222, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 223, loss: 0.507074, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 223, test acc: 0.965347, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 224, loss: 0.506515, train acc: 0.999375, balanced train acc: 0.998077]
+[Test 224, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 225, loss: 0.506463, train acc: 0.999375, balanced train acc: 0.998077]
+[Test 225, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 226, loss: 0.507501, train acc: 0.998125, balanced train acc: 0.994253]
+[Test 226, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 227, loss: 0.507796, train acc: 0.998750, balanced train acc: 0.996212]
+[Test 227, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 228, loss: 0.508267, train acc: 0.999375, balanced train acc: 0.998084]
+[Test 228, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 229, loss: 0.506636, train acc: 0.999375, balanced train acc: 0.998099]
+[Test 229, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 230, loss: 0.507261, train acc: 0.998125, balanced train acc: 0.994297]
+[Test 230, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 231, loss: 0.506760, train acc: 0.998750, balanced train acc: 0.997704]
+[Test 231, test acc: 0.950495, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 232, loss: 0.507344, train acc: 0.999375, balanced train acc: 0.998092]
+[Test 232, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 233, loss: 0.507611, train acc: 0.998125, balanced train acc: 0.994318]
+[Test 233, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 234, loss: 0.506720, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 234, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 235, loss: 0.506481, train acc: 0.999375, balanced train acc: 0.998092]
+[Test 235, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 236, loss: 0.507043, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 236, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 237, loss: 0.506712, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 237, test acc: 0.962871, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 238, loss: 0.507814, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 238, test acc: 0.957921, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 239, loss: 0.509857, train acc: 0.996875, balanced train acc: 0.993397]
+[Test 239, test acc: 0.943069, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 240, loss: 0.507087, train acc: 0.998125, balanced train acc: 0.995824]
+[Test 240, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 241, loss: 0.508240, train acc: 0.998125, balanced train acc: 0.994297]
+[Test 241, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 242, loss: 0.507783, train acc: 0.998750, balanced train acc: 0.996212]
+[Test 242, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 243, loss: 0.507196, train acc: 0.999375, balanced train acc: 0.999626]
+[Test 243, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 244, loss: 0.506589, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 244, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 245, loss: 0.506984, train acc: 0.999375, balanced train acc: 0.998077]
+[Test 245, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 246, loss: 0.506585, train acc: 0.999375, balanced train acc: 0.998099]
+[Test 246, test acc: 0.955446, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 247, loss: 0.506937, train acc: 1.000000, balanced train acc: 1.000000]
+[Test 247, test acc: 0.948020, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 248, loss: 0.507383, train acc: 0.998750, balanced train acc: 0.996183]
+[Test 248, test acc: 0.952970, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+[Train 249, loss: 0.509757, train acc: 0.996250, balanced train acc: 0.990048]
+[Test 249, test acc: 0.960396, best V_acc: 1.000000, best A_acc: 0.987179, best F1: 0.904762]
+Split 0 ------>> best f1 score: 0.904762, best_V_acc: 1.000000, best_A_acc: 0.987179
+The number of trainable parameters: 1.540239(M)
+[Train 0, loss: 0.683986, train acc: 0.757500, balanced train acc: 0.515838]
+[Test 0, test acc: 0.837037, best V_acc: 0.997253, best A_acc: 0.013333, best F1: 0.029412]
+[Train 1, loss: 0.647970, train acc: 0.793750, balanced train acc: 0.534384]
+[Test 1, test acc: 0.837037, best V_acc: 1.000000, best A_acc: 0.013333, best F1: 0.029412]
+[Train 2, loss: 0.656747, train acc: 0.794375, balanced train acc: 0.504122]
+[Test 2, test acc: 0.837037, best V_acc: 1.000000, best A_acc: 0.013333, best F1: 0.029412]
+[Train 3, loss: 0.670985, train acc: 0.783750, balanced train acc: 0.525075]
+[Test 3, test acc: 0.637037, best V_acc: 1.000000, best A_acc: 0.442361, best F1: 0.289855]
+[Train 4, loss: 0.638544, train acc: 0.788125, balanced train acc: 0.508059]
+[Test 4, test acc: 0.837037, best V_acc: 1.000000, best A_acc: 0.442361, best F1: 0.289855]
+[Train 5, loss: 0.629306, train acc: 0.812500, balanced train acc: 0.533248]
+[Test 5, test acc: 0.839506, best V_acc: 1.000000, best A_acc: 0.442361, best F1: 0.289855]
+[Train 6, loss: 0.625343, train acc: 0.806875, balanced train acc: 0.568319]
+[Test 6, test acc: 0.837037, best V_acc: 1.000000, best A_acc: 0.442361, best F1: 0.289855]
+Namespace(batch_size=32, dim_k=32, dropout=0.5, emb_dims=1024, epochs=250, exp_name='intra_cls_train', head=8, lr=0.01, mode='test', momentum=0.9, num_K=[32, 64], num_points=1024, scheduler='cos', seed=1, test_batch_size=16, use_cuda=False, use_gpus=True, use_norm=True, use_sgd=True)
+Using GPU 0
+Namespace(batch_size=32, dim_k=32, dropout=0.5, emb_dims=1024, epochs=250, exp_name='intra_cls_train', head=8, lr=0.01, mode='test', momentum=0.9, num_K=[32, 64], num_points=1024, scheduler='cos', seed=1, test_batch_size=16, use_cuda=False, use_gpus=True, use_norm=True, use_sgd=True)
+Using GPU 0
+Namespace(batch_size=32, dim_k=32, dropout=0.5, emb_dims=1024, epochs=250, exp_name='intra_cls_train', head=8, lr=0.01, mode='test', momentum=0.9, num_K=[32, 64], num_points=1024, scheduler='cos', seed=1, test_batch_size=16, use_cuda=False, use_gpus=True, use_norm=True, use_sgd=True)
+Using GPU 0
+Final throughput: 27.906964
+[Test: test acc: 0.955446, balanced test acc: 0.894119]
+Split 0 ------>> Test: f1 score: 0.854839, V_acc: 0.984467, A_acc: 0.796667
+Final throughput: 527.979756
+[Test: test acc: 0.957921, balanced test acc: 0.889502]
+Split 0 ------>> Test: f1 score: 0.859504, V_acc: 0.991484, A_acc: 0.798077
+Final throughput: 514.218294
+[Test: test acc: 0.948020, balanced test acc: 0.877488]
+Split 0 ------>> Test: f1 score: 0.829268, V_acc: 0.983740, A_acc: 0.802000
+Final throughput: 486.131799
+[Test: test acc: 0.955446, balanced test acc: 0.894119]
+Split 0 ------>> Test: f1 score: 0.854839, V_acc: 0.984131, A_acc: 0.720455
+Final throughput: 479.481533
+[Test: test acc: 0.962871, balanced test acc: 0.904653]
+Split 0 ------>> Test: f1 score: 0.878049, V_acc: 0.992234, A_acc: 0.811364
+Final throughput: 478.396307
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.987912, A_acc: 0.783333
+Final throughput: 484.314094
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.988588, A_acc: 0.807971
+Final throughput: 464.541943
+[Test: test acc: 0.962871, balanced test acc: 0.910750]
+Split 0 ------>> Test: f1 score: 0.880000, V_acc: 0.988525, A_acc: 0.811111
+Final throughput: 446.771333
+[Test: test acc: 0.960396, balanced test acc: 0.903174]
+Split 0 ------>> Test: f1 score: 0.870968, V_acc: 0.989080, A_acc: 0.795139
+Final throughput: 479.692279
+[Test: test acc: 0.960396, balanced test acc: 0.897077]
+Split 0 ------>> Test: f1 score: 0.868852, V_acc: 0.990551, A_acc: 0.796377
+Final throughput: 481.668332
+[Test: test acc: 0.960396, balanced test acc: 0.909270]
+Split 0 ------>> Test: f1 score: 0.873016, V_acc: 0.986368, A_acc: 0.836806
+Final throughput: 474.517687
+[Test: test acc: 0.962871, balanced test acc: 0.904653]
+Split 0 ------>> Test: f1 score: 0.878049, V_acc: 0.992125, A_acc: 0.806250
+Final throughput: 423.237412
+[Test: test acc: 0.962871, balanced test acc: 0.910750]
+Split 0 ------>> Test: f1 score: 0.880000, V_acc: 0.987804, A_acc: 0.832667
+Final throughput: 473.741816
+[Test: test acc: 0.952970, balanced test acc: 0.886543]
+Split 0 ------>> Test: f1 score: 0.845528, V_acc: 0.986172, A_acc: 0.775641
+Final throughput: 434.844141
+[Test: test acc: 0.952970, balanced test acc: 0.886543]
+Split 0 ------>> Test: f1 score: 0.845528, V_acc: 0.986121, A_acc: 0.814286
+Final throughput: 478.433392
+[Test: test acc: 0.965347, balanced test acc: 0.918325]
+Split 0 ------>> Test: f1 score: 0.888889, V_acc: 0.988919, A_acc: 0.884615
+Final throughput: 477.794518
+[Test: test acc: 0.957921, balanced test acc: 0.889502]
+Split 0 ------>> Test: f1 score: 0.859504, V_acc: 0.985073, A_acc: 0.775333
+Final throughput: 477.850125
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.988130, A_acc: 0.818056
+Final throughput: 474.749862
+[Test: test acc: 0.962871, balanced test acc: 0.904653]
+Split 0 ------>> Test: f1 score: 0.878049, V_acc: 0.991192, A_acc: 0.807333
+Final throughput: 476.923787
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.988736, A_acc: 0.802778
+Final throughput: 479.262264
+[Test: test acc: 0.962871, balanced test acc: 0.904653]
+Split 0 ------>> Test: f1 score: 0.878049, V_acc: 0.991941, A_acc: 0.832051
+Final throughput: 478.333623
+[Test: test acc: 0.960396, balanced test acc: 0.909270]
+Split 0 ------>> Test: f1 score: 0.873016, V_acc: 0.976259, A_acc: 0.827333
+Final throughput: 479.266385
+[Test: test acc: 0.965347, balanced test acc: 0.918325]
+Split 0 ------>> Test: f1 score: 0.888889, V_acc: 0.988897, A_acc: 0.870040
+Final throughput: 478.471314
+[Test: test acc: 0.957921, balanced test acc: 0.901694]
+Split 0 ------>> Test: f1 score: 0.864000, V_acc: 0.985606, A_acc: 0.802000
+Final throughput: 475.628540
+[Test: test acc: 0.960396, balanced test acc: 0.897077]
+Split 0 ------>> Test: f1 score: 0.868852, V_acc: 0.991352, A_acc: 0.752899
+Final throughput: 478.723181
+[Test: test acc: 0.957921, balanced test acc: 0.901694]
+Split 0 ------>> Test: f1 score: 0.864000, V_acc: 0.986332, A_acc: 0.803030
+Final throughput: 478.607086
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.988314, A_acc: 0.805128
+Final throughput: 475.702647
+[Test: test acc: 0.950495, balanced test acc: 0.885064]
+Split 0 ------>> Test: f1 score: 0.838710, V_acc: 0.983277, A_acc: 0.761232
+Final throughput: 477.905983
+[Test: test acc: 0.960396, balanced test acc: 0.897077]
+Split 0 ------>> Test: f1 score: 0.868852, V_acc: 0.990798, A_acc: 0.795139
+Final throughput: 477.697644
+[Test: test acc: 0.952970, balanced test acc: 0.892639]
+Split 0 ------>> Test: f1 score: 0.848000, V_acc: 0.983094, A_acc: 0.787333
+Final throughput: 478.241993
+[Test: test acc: 0.950495, balanced test acc: 0.878967]
+Split 0 ------>> Test: f1 score: 0.836066, V_acc: 0.985750, A_acc: 0.790000
+Final throughput: 478.069695
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.989080, A_acc: 0.822917
+Final throughput: 478.475273
+[Test: test acc: 0.965347, balanced test acc: 0.918325]
+Split 0 ------>> Test: f1 score: 0.888889, V_acc: 0.988588, A_acc: 0.886667
+Final throughput: 479.522690
+[Test: test acc: 0.965347, balanced test acc: 0.906132]
+Split 0 ------>> Test: f1 score: 0.885246, V_acc: 0.994231, A_acc: 0.838462
+Final throughput: 476.576593
+[Test: test acc: 0.950495, balanced test acc: 0.872871]
+Split 0 ------>> Test: f1 score: 0.833333, V_acc: 0.988439, A_acc: 0.800000
+Final throughput: 479.032156
+[Test: test acc: 0.960396, balanced test acc: 0.897077]
+Split 0 ------>> Test: f1 score: 0.868852, V_acc: 0.991890, A_acc: 0.823188
+Final throughput: 477.791219
+[Test: test acc: 0.970297, balanced test acc: 0.927380]
+Split 0 ------>> Test: f1 score: 0.904762, V_acc: 0.992468, A_acc: 0.863194
+Final throughput: 478.267610
+[Test: test acc: 0.950495, balanced test acc: 0.878967]
+Split 0 ------>> Test: f1 score: 0.836066, V_acc: 0.985566, A_acc: 0.729861
+Final throughput: 452.068324
+[Test: test acc: 0.967822, balanced test acc: 0.925901]
+Split 0 ------>> Test: f1 score: 0.897638, V_acc: 0.987301, A_acc: 0.869333
+Final throughput: 449.770448
+[Test: test acc: 0.952970, balanced test acc: 0.880446]
+Split 0 ------>> Test: f1 score: 0.842975, V_acc: 0.988130, A_acc: 0.761111
+Final throughput: 471.523072
+[Test: test acc: 0.960396, balanced test acc: 0.903174]
+Split 0 ------>> Test: f1 score: 0.870968, V_acc: 0.987919, A_acc: 0.820290
+Final throughput: 476.669549
+[Test: test acc: 0.960396, balanced test acc: 0.903174]
+Split 0 ------>> Test: f1 score: 0.870968, V_acc: 0.988720, A_acc: 0.859722
+Final throughput: 479.971118
+[Test: test acc: 0.955446, balanced test acc: 0.906312]
+Split 0 ------>> Test: f1 score: 0.859375, V_acc: 0.973204, A_acc: 0.865278
+Final throughput: 444.111248
+[Test: test acc: 0.948020, balanced test acc: 0.871391]
+Split 0 ------>> Test: f1 score: 0.826446, V_acc: 0.986538, A_acc: 0.759028
+Final throughput: 431.621151
+[Test: test acc: 0.960396, balanced test acc: 0.903174]
+Split 0 ------>> Test: f1 score: 0.870968, V_acc: 0.988095, A_acc: 0.842361
+Final throughput: 473.419995
+[Test: test acc: 0.952970, balanced test acc: 0.886543]
+Split 0 ------>> Test: f1 score: 0.845528, V_acc: 0.986024, A_acc: 0.828205
+Final throughput: 477.273348
+[Test: test acc: 0.965347, balanced test acc: 0.918325]
+Split 0 ------>> Test: f1 score: 0.888889, V_acc: 0.988983, A_acc: 0.848077
+Final throughput: 475.919469
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.988800, A_acc: 0.768353
+Final throughput: 464.853195
+[Test: test acc: 0.967822, balanced test acc: 0.913708]
+Split 0 ------>> Test: f1 score: 0.894309, V_acc: 0.994294, A_acc: 0.847917
+Final throughput: 476.096495
+[Test: test acc: 0.952970, balanced test acc: 0.892639]
+Split 0 ------>> Test: f1 score: 0.848000, V_acc: 0.983242, A_acc: 0.841304
+Split 0 --->>> Best f1 score: 0.90476 | Best V acc: 0.99429 | Best A acc: 0.88667
+Namespace(batch_size=2, dim_k=32, dropout=0.5, emb_dims=1024, epochs=100, exp_name='intra_cls_train', head=8, lr=0.01, mode='test', momentum=0.9, num_K=[32, 64], num_points=1024, scheduler='cos', seed=1, test_batch_size=2, use_cuda=False, use_gpus=True, use_norm=True, use_sgd=True)
+Using GPU 0
+Final throughput: 90.227914
+[Test: test acc: 0.955446, balanced test acc: 0.894119]
+Split 0 ------>> Test: f1 score: 0.854839, V_acc: 0.984925, A_acc: 0.793651
+Final throughput: 93.179881
+[Test: test acc: 0.957921, balanced test acc: 0.889502]
+Split 0 ------>> Test: f1 score: 0.859504, V_acc: 0.987310, A_acc: 0.778689
+Final throughput: 93.681015
+[Test: test acc: 0.948020, balanced test acc: 0.877488]
+Split 0 ------>> Test: f1 score: 0.829268, V_acc: 0.982143, A_acc: 0.783333
+Final throughput: 93.511603
+[Test: test acc: 0.955446, balanced test acc: 0.894119]
+Split 0 ------>> Test: f1 score: 0.854839, V_acc: 0.982323, A_acc: 0.806452
+Final throughput: 93.536495
+[Test: test acc: 0.962871, balanced test acc: 0.904653]
+Split 0 ------>> Test: f1 score: 0.878049, V_acc: 0.989744, A_acc: 0.838983
+Final throughput: 93.743968
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.987047, A_acc: 0.798246
+Final throughput: 94.023759
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.989899, A_acc: 0.798387
+Final throughput: 93.886351
+[Test: test acc: 0.962871, balanced test acc: 0.910750]
+Split 0 ------>> Test: f1 score: 0.880000, V_acc: 0.987310, A_acc: 0.827869
+Final throughput: 93.024618
+[Test: test acc: 0.960396, balanced test acc: 0.903174]
+Split 0 ------>> Test: f1 score: 0.870968, V_acc: 0.987245, A_acc: 0.800000
+Final throughput: 93.276068
+[Test: test acc: 0.960396, balanced test acc: 0.897077]
+Split 0 ------>> Test: f1 score: 0.868852, V_acc: 0.992386, A_acc: 0.803279
+Final throughput: 94.413165
+[Test: test acc: 0.960396, balanced test acc: 0.909270]
+Split 0 ------>> Test: f1 score: 0.873016, V_acc: 0.987113, A_acc: 0.827586
+Final throughput: 92.744296
+[Test: test acc: 0.962871, balanced test acc: 0.904653]
+Split 0 ------>> Test: f1 score: 0.878049, V_acc: 0.992308, A_acc: 0.805085
+Final throughput: 93.574078
+[Test: test acc: 0.962871, balanced test acc: 0.910750]
+Split 0 ------>> Test: f1 score: 0.880000, V_acc: 0.989848, A_acc: 0.836066
+Final throughput: 93.323241
+[Test: test acc: 0.952970, balanced test acc: 0.886543]
+Split 0 ------>> Test: f1 score: 0.845528, V_acc: 0.984615, A_acc: 0.779661
+Final throughput: 93.787770
+[Test: test acc: 0.952970, balanced test acc: 0.886543]
+Split 0 ------>> Test: f1 score: 0.845528, V_acc: 0.984694, A_acc: 0.783333
+Final throughput: 93.485939
+[Test: test acc: 0.965347, balanced test acc: 0.918325]
+Split 0 ------>> Test: f1 score: 0.888889, V_acc: 0.987374, A_acc: 0.854839
+Final throughput: 93.988924
+[Test: test acc: 0.957921, balanced test acc: 0.889502]
+Split 0 ------>> Test: f1 score: 0.859504, V_acc: 0.992386, A_acc: 0.795082
+Final throughput: 93.267318
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.987374, A_acc: 0.798387
+Final throughput: 93.502059
+[Test: test acc: 0.962871, balanced test acc: 0.904653]
+Split 0 ------>> Test: f1 score: 0.878049, V_acc: 0.989848, A_acc: 0.827869
+Final throughput: 93.215766
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.989796, A_acc: 0.825000
+Final throughput: 93.418931
+[Test: test acc: 0.962871, balanced test acc: 0.904653]
+Split 0 ------>> Test: f1 score: 0.878049, V_acc: 0.992462, A_acc: 0.825397
+Final throughput: 93.150878
+[Test: test acc: 0.960396, balanced test acc: 0.909270]
+Split 0 ------>> Test: f1 score: 0.873016, V_acc: 0.987500, A_acc: 0.835938
+Final throughput: 93.880257
+[Test: test acc: 0.965347, balanced test acc: 0.918325]
+Split 0 ------>> Test: f1 score: 0.888889, V_acc: 0.989899, A_acc: 0.838710
+Final throughput: 93.992237
+[Test: test acc: 0.957921, balanced test acc: 0.901694]
+Split 0 ------>> Test: f1 score: 0.864000, V_acc: 0.984694, A_acc: 0.833333
+Final throughput: 93.190296
+[Test: test acc: 0.960396, balanced test acc: 0.897077]
+Split 0 ------>> Test: f1 score: 0.868852, V_acc: 0.987374, A_acc: 0.790323
+Final throughput: 93.529143
+[Test: test acc: 0.957921, balanced test acc: 0.901694]
+Split 0 ------>> Test: f1 score: 0.864000, V_acc: 0.984536, A_acc: 0.810345
+Final throughput: 93.850571
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.987310, A_acc: 0.795082
+Final throughput: 94.077965
+[Test: test acc: 0.950495, balanced test acc: 0.885064]
+Split 0 ------>> Test: f1 score: 0.838710, V_acc: 0.982143, A_acc: 0.791667
+Final throughput: 93.672658
+[Test: test acc: 0.960396, balanced test acc: 0.897077]
+Split 0 ------>> Test: f1 score: 0.868852, V_acc: 0.992424, A_acc: 0.798387
+Final throughput: 94.128027
+[Test: test acc: 0.952970, balanced test acc: 0.892639]
+Split 0 ------>> Test: f1 score: 0.848000, V_acc: 0.984848, A_acc: 0.798387
+Final throughput: 93.322848
+[Test: test acc: 0.950495, balanced test acc: 0.878967]
+Split 0 ------>> Test: f1 score: 0.836066, V_acc: 0.984925, A_acc: 0.777778
+Final throughput: 93.464055
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.987310, A_acc: 0.803279
+Final throughput: 93.112342
+[Test: test acc: 0.965347, balanced test acc: 0.918325]
+Split 0 ------>> Test: f1 score: 0.888889, V_acc: 0.987374, A_acc: 0.854839
+Final throughput: 93.784434
+[Test: test acc: 0.965347, balanced test acc: 0.906132]
+Split 0 ------>> Test: f1 score: 0.885246, V_acc: 0.994898, A_acc: 0.833333
+Final throughput: 92.935532
+[Test: test acc: 0.950495, balanced test acc: 0.872871]
+Split 0 ------>> Test: f1 score: 0.833333, V_acc: 0.989744, A_acc: 0.754237
+Final throughput: 93.817093
+[Test: test acc: 0.960396, balanced test acc: 0.897077]
+Split 0 ------>> Test: f1 score: 0.868852, V_acc: 0.992347, A_acc: 0.783333
+Final throughput: 93.614426
+[Test: test acc: 0.970297, balanced test acc: 0.927380]
+Split 0 ------>> Test: f1 score: 0.904762, V_acc: 0.992462, A_acc: 0.865079
+Final throughput: 93.265369
+[Test: test acc: 0.950495, balanced test acc: 0.878967]
+Split 0 ------>> Test: f1 score: 0.836066, V_acc: 0.984848, A_acc: 0.774194
+Final throughput: 93.167446
+[Test: test acc: 0.967822, balanced test acc: 0.925901]
+Split 0 ------>> Test: f1 score: 0.897638, V_acc: 0.987437, A_acc: 0.865079
+Final throughput: 92.530838
+[Test: test acc: 0.952970, balanced test acc: 0.880446]
+Split 0 ------>> Test: f1 score: 0.842975, V_acc: 0.987310, A_acc: 0.786885
+Final throughput: 93.640275
+[Test: test acc: 0.960396, balanced test acc: 0.903174]
+Split 0 ------>> Test: f1 score: 0.870968, V_acc: 0.987113, A_acc: 0.818966
+Final throughput: 93.659799
+[Test: test acc: 0.960396, balanced test acc: 0.903174]
+Split 0 ------>> Test: f1 score: 0.870968, V_acc: 0.990000, A_acc: 0.812500
+Final throughput: 93.930185
+[Test: test acc: 0.955446, balanced test acc: 0.906312]
+Split 0 ------>> Test: f1 score: 0.859375, V_acc: 0.982412, A_acc: 0.833333
+Final throughput: 93.853603
+[Test: test acc: 0.948020, balanced test acc: 0.871391]
+Split 0 ------>> Test: f1 score: 0.826446, V_acc: 0.987310, A_acc: 0.754098
+Final throughput: 93.650998
+[Test: test acc: 0.960396, balanced test acc: 0.903174]
+Split 0 ------>> Test: f1 score: 0.870968, V_acc: 0.987500, A_acc: 0.820312
+Final throughput: 92.611028
+[Test: test acc: 0.952970, balanced test acc: 0.886543]
+Split 0 ------>> Test: f1 score: 0.845528, V_acc: 0.984615, A_acc: 0.805085
+Final throughput: 93.050962
+[Test: test acc: 0.965347, balanced test acc: 0.918325]
+Split 0 ------>> Test: f1 score: 0.888889, V_acc: 0.989899, A_acc: 0.854839
+Final throughput: 93.914219
+[Test: test acc: 0.957921, balanced test acc: 0.895598]
+Split 0 ------>> Test: f1 score: 0.861789, V_acc: 0.984772, A_acc: 0.811475
+Final throughput: 93.768072
+[Test: test acc: 0.967822, balanced test acc: 0.913708]
+Split 0 ------>> Test: f1 score: 0.894309, V_acc: 0.994872, A_acc: 0.855932
+Final throughput: 93.188310
+[Test: test acc: 0.952970, balanced test acc: 0.892639]
+Split 0 ------>> Test: f1 score: 0.848000, V_acc: 0.982143, A_acc: 0.800000
+Split 0 --->>> Best f1 score: 0.90476 | Best V acc: 0.99490 | Best A acc: 0.86508
